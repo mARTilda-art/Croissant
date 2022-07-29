@@ -1,0 +1,11 @@
+body {
+  font: Poppins;
+  text-align: center;
+  background-color: darkgoldenrod;
+  margin: 40px auto;
+  padding: 40px;
+}
+a {
+  font-weight: bold;
+  color: black;
+}
